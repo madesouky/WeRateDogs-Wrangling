@@ -16,7 +16,7 @@ While, in the **second notebook**, I will use Python visualization libraries to 
 **Note:** In this project:
 - I have **gathered** the data from 3 different sources, `manually` download it, `requesting` it using `request` library and `scraping` it using `twitter API`.
 - Then, I **assessed** the data using different techniques, e.g., `visually assessing` and `programmatically assessing` to find the different `quality` and `structure` issues in the data.
-- Finally, I **Programmatically cleaned** these issues using `Define`, `Code`, `Test` strategy.
+- Finally, I **programmatically cleaned** these issues using `Define`, `Code` and `Test` strategy.
 
 ## Dataset
 
