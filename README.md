@@ -35,13 +35,13 @@ This **dataset** has 3 tables:
 
 ## Resources
 The resources I have used in this project:
-[**Data wrangling**](https://en.wikipedia.org/wiki/Data_wrangling)
-[**@dog_rates**](https://twitter.com/dog_rates)
-[**WeRateDogs**](https://en.wikipedia.org/wiki/WeRateDogs)
-[**Gathering data**](https://ori.hhs.gov/education/products/n_illinois_u/datamanagement/dctopic.html)
-[**web scraping**](https://en.wikipedia.org/wiki/Web_scraping)
-[**requesting URLs**](https://requests.readthedocs.io/en/master/)
-[**APIs**](https://www.mulesoft.com/resources/api/what-is-an-api)
-[**Pandas API**](https://pandas.pydata.org/docs/reference/index.html)
-[**Cleaning Data**](https://en.wikipedia.org/wiki/Data_cleansing)
-[**SQLAlchemy**](https://www.sqlalchemy.org/)
+- [**Data wrangling**](https://en.wikipedia.org/wiki/Data_wrangling)
+- [**@dog_rates**](https://twitter.com/dog_rates)
+- [**WeRateDogs**](https://en.wikipedia.org/wiki/WeRateDogs)
+- [**Gathering data**](https://ori.hhs.gov/education/products/n_illinois_u/datamanagement/dctopic.html)
+- [**web scraping**](https://en.wikipedia.org/wiki/Web_scraping)
+- [**requesting URLs**](https://requests.readthedocs.io/en/master/)
+- [**APIs**](https://www.mulesoft.com/resources/api/what-is-an-api)
+- [**Pandas API**](https://pandas.pydata.org/docs/reference/index.html)
+- [**Cleaning Data**](https://en.wikipedia.org/wiki/Data_cleansing)
+- [**SQLAlchemy**](https://www.sqlalchemy.org/)
