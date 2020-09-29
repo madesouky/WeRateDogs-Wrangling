@@ -5,13 +5,18 @@
 
 [**Data wrangling**](https://en.wikipedia.org/wiki/Data_wrangling) or sometimes referred to as data munging, is the process of transforming and mapping data from one "raw" data form into another format with the intent of making it more appropriate and valuable for a variety of downstream purposes such as analytics.
 
-**Note:** In this project there will be two notebooks, this one [**Wrangle WeRateDogs**](#top) that contains the `data wrangling` process and [**Analyze and Visualize WeRateDogs**](01_analyze_visualize.ipynb) that contains the visualization process.
+**Note:** This project contains two notebooks, this one [**Wrangle WeRateDogs**](#top) that contains the `data wrangling` process and [**Analyze and Visualize WeRateDogs**](01_analyze_visualize.ipynb) that contains the visualization process.
 
 In the **first notebook**, I will start with **Data Wrangling** techniques, e.g. `Gather`, `Assess` and `Clean` the dataset. 
 
 While, in the **second notebook**, I will use Python visualization libraries to systematically `explore` a selected dataset, starting from plots of single variables and building up to plots of multiple variables, then `communicate` the interesting properties, trends, and relationships that I discovered through aesthetic and polished visuals.
 
 **Note:** I have included a slideshow (`2_slideshow.slides.html`) as a presentation that displays the explantory visualizations and the summary of my findings, also I have included the review (`Udacity Review.pdf`) from Udacity on my project and I have already take the reviewer's suggestions and notes into consideration.
+
+**Note:** In this project:
+- I have **gathered** the data from 3 different sources, `manually` download it, `requesting` it using `request` library and `scraping` it using `twitter API`.
+- Then, I **assessed** the data using different techniques, e.g., `visually assessing` and `programmatically assessing` to find the different `quality` and `structure` issues in the data.
+- Finally, I **Programmatically cleaned** these issues using `Define`, `Code`, `Test` strategery.
 
 ## Dataset
 
